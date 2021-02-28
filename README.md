@@ -44,5 +44,12 @@
    <img src="./videos/guess the number.gif" alt="Demo of Guess The Number">
    <br>
  </p> 
+ <p align="center">
+    <a href="https://github.com/08Gunjan/GUESS-MY-NUMBER" target="blank">View Demo</a>
+    ·
+    <a href="https://github.com/08Gunjan/GUESS-MY-NUMBER/issues/new/choose">Report Bug</a>
+    ·
+    <a href="https://github.com/08Gunjan/GUESS-MY-NUMBER/issues/new/choose">Request Feature</a>
+</p>
   
                                                                          
