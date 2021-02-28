@@ -1,4 +1,4 @@
-  <p align="center"> # GUESS-MY-NUMBER </p>
+ <h1 align="center"> <strong> GUESS-MY-NUMBER </strong> </h1> 
   <p align="center">
  𝚃𝚑𝚒𝚜 𝚒𝚜 𝚊 𝚍𝚎𝚖𝚘 𝚐𝚊𝚖𝚎 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚎𝚍 𝚞𝚜𝚒𝚗𝚐 𝙷𝚃𝙼𝙻 , 𝙲𝚂𝚂 , 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃  ( 𝐁𝐄𝐆𝐈𝐍𝐍𝐄𝐑 𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘 𝐏𝐑𝐎𝐉𝐄𝐂𝐓)
  </p>
