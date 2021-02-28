@@ -45,7 +45,7 @@
    <br>
  </p> 
  <p align="center">
-    <a href="https://github.com/08Gunjan/GUESS-MY-NUMBER" target="blank">View Demo</a>
+    <a href="https://08gunjan.github.io/GUESS-MY-NUMBER/Guess%20the%20Number/game.html" target="blank">View Demo</a>
     ·
     <a href="https://github.com/08Gunjan/GUESS-MY-NUMBER/issues/new/choose">Report Bug</a>
     ·
